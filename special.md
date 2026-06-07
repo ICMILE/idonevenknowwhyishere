@@ -126,6 +126,7 @@
      - [ ] 一维弹性碰撞公式[推导](https://chat.deepseek.com/a/chat/s/bcb5d933-a9ff-40db-9373-488fcffb8dd5)
      - [ ] 质心系守恒推导[应用](https://chat.deepseek.com/a/chat/s/27b0ca5a-2e34-4ec7-88c5-e96910ba0e15)
      - [ ] 质能方程推导[详解](https://chat.deepseek.com/a/chat/s/4cc26604-d44f-4c36-a082-12847c46c321)
+     - [ ] 震荡电路原理与[计算](https://chat.deepseek.com/a/chat/s/d4fd415b-1f43-4cb7-9aee-e99011da2910)
      - [ ] 摆长公式推导与[延伸](https://chat.deepseek.com/a/chat/s/ed35b3e6-7563-4065-980b-11704991ad40)
          - [ ] Pendulum period derivation via angular [frequency](https://chat.deepseek.com/a/chat/s/c98e94ae-5b51-4e43-a028-a9f5d5e3795a)
          - [ ] $T = 2\pi \sqrt{\frac{L}{g}}$
@@ -197,6 +198,7 @@
        - 化学题目[提取](https://chat.deepseek.com/a/chat/s/edc2fabe-6e27-4d73-9b80-6a75cc30a438)
        - 分子复杂性及重原子数[解析](https://chat.deepseek.com/a/chat/s/85b48bcd-a098-44b9-a1bb-3bbcf38fc570)
    - #### $E$
+     - 离子共存[题](https://chat.deepseek.com/a/chat/s/2bf62d87-7ef2-4fb8-8d30-38b88226b751)
      - 晶体密度公式与结构类型[关系](https://chat.deepseek.com/a/chat/s/018444e7-3537-4318-8d30-3571c589dc85)
      - 制氨法工业流程[题](https://chat.deepseek.com/a/chat/s/06849b41-0c0b-4790-abdc-8d3b7dfb497c)
        - 氨类化合物反应与[实验](https://chat.deepseek.com/a/chat/s/8643a763-1f11-47eb-a3f7-76f02c916e00)
@@ -263,6 +265,7 @@
      - 6-9 鼓书艺人阅读题[解析](https://chat.deepseek.com/a/chat/s/e6d71f58-56f5-4baf-a6ec-fe86986fd5ed)
        - 文本提取与段落对应 [提取](https://chat.deepseek.com/a/chat/s/d4a6e537-f12d-4961-a7a2-e1d39a535fad)
        - Icarus Without Sun [Meaning](https://chat.deepseek.com/a/chat/s/422c922c-0f70-49ae-91a4-ce44e1d9018e)
+     - 10-14文言词语解说题[解析](https://chat.deepseek.com/a/chat/s/39defb15-5cc4-4ad7-9458-ea2ee059d3f1)
      - 15-16诗歌赏析题解答[分析](https://chat.deepseek.com/a/chat/s/6d783583-abe2-4fcb-9e8a-812cd0a26049)
      - 18-20 谐音双关修改与衔接[解答](https://chat.deepseek.com/a/chat/s/dc847f2d-396e-48cc-ba93-778e2f9647a1)
      - 21 剪纸寓意[解释](https://chat.deepseek.com/a/chat/s/d94d7a0d-7bd1-45a0-b525-5f2ea327da49)
