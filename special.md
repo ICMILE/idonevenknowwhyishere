@@ -135,6 +135,7 @@
           - $\omega$：角频率（单位 rad/s）
 
           - $\varphi_u$：初相位（$t=0$ 时的电角度）
+       - [ ] $U(有效值) = \frac{U_m}{\sqrt{2}} = \frac{12\sqrt{2}}{\sqrt{2}} = 12 \, \text{V}$
      - [ ] 摆长公式推导与[延伸](https://chat.deepseek.com/a/chat/s/ed35b3e6-7563-4065-980b-11704991ad40)
          - [ ] Pendulum period derivation via angular [frequency](https://chat.deepseek.com/a/chat/s/c98e94ae-5b51-4e43-a028-a9f5d5e3795a)
          - [ ] $T = 2\pi \sqrt{\frac{L}{g}}$
