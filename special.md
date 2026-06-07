@@ -116,11 +116,12 @@
        - $T^2 = \frac{4\pi^2 a^3}{G(m_1 + m_2)}$
        - $a = \sqrt[3]{\frac{G M T^2}{4\pi^2}}$
    - *miscellance 
+     - [ ] Acceleration Time Distance Speed [Relationships](https://chat.deepseek.com/a/chat/s/38a31a6a-2e66-407f-b4ca-ec3741e148f8)
      - 旋转物体角速度变化[分析](https://chat.deepseek.com/a/chat/s/674c1802-fde7-498a-81c1-71b6144acf79)
        - Rotating Ball Collision Speed [Analysis](https://chat.deepseek.com/a/chat/s/8c141c59-8d2c-4a66-a854-36dc71411e0a)
        - 旋转球撞击平面速度变化[分析](https://chat.deepseek.com/a/chat/s/13bd298d-8693-4382-a859-3aea885c4822)
      - Nm2C equivalent to Vm [explanation](https://chat.deepseek.com/a/chat/s/1d9547d2-4e9f-4ff5-959f-f04f283a1c1d)
-     - 
+     - 高中物理重力转换公式链[simple](https://chat.deepseek.com/a/chat/s/abc10c54-ca08-4d60-88a3-7aabc81ddaaa)
    - #### $E$
      - [ ] 斜坡转动惯量求解[方法](https://chat.deepseek.com/a/chat/s/0c79f3b6-1419-4f57-a728-5e90b685e4aa)
      - [ ] 一维弹性碰撞公式[推导](https://chat.deepseek.com/a/chat/s/bcb5d933-a9ff-40db-9373-488fcffb8dd5)
@@ -135,6 +136,7 @@
           - $\omega$：角频率（单位 rad/s）
 
           - $\varphi_u$：初相位（$t=0$ 时的电角度）
+          - $u_C(t) = U_0 \cos(\omega_0 t), \quad \omega_0 = \frac{1}{\sqrt{LC}}$
        - [ ] $U(有效值) = \frac{U_m}{\sqrt{2}} = \frac{12\sqrt{2}}{\sqrt{2}} = 12 \, \text{V}$
      - [ ] 摆长公式推导与[延伸](https://chat.deepseek.com/a/chat/s/ed35b3e6-7563-4065-980b-11704991ad40)
          - [ ] Pendulum period derivation via angular [frequency](https://chat.deepseek.com/a/chat/s/c98e94ae-5b51-4e43-a028-a9f5d5e3795a)
@@ -444,3 +446,4 @@
 -  [ ] multiable
    -  [ ] 正态分布[intro](https://chat.deepseek.com/a/chat/s/738cc2df-6f85-4a1b-88ac-48ba7f7d2015)
    -  [ ] 泡利不相容原理与阿尔法射线实验（卢瑟福实验）及其[结论](https://chat.deepseek.com/share/cs368xbcdyclgxyhm9)
+   -  [ ] 解线性方程组通俗[解释](https://chat.deepseek.com/a/chat/s/8ae5f67c-b77b-4d78-9000-8f90827981e2)
