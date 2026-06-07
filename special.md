@@ -127,6 +127,14 @@
      - [ ] 质心系守恒推导[应用](https://chat.deepseek.com/a/chat/s/27b0ca5a-2e34-4ec7-88c5-e96910ba0e15)
      - [ ] 质能方程推导[详解](https://chat.deepseek.com/a/chat/s/4cc26604-d44f-4c36-a082-12847c46c321)
      - [ ] 震荡电路原理与[计算](https://chat.deepseek.com/a/chat/s/d4fd415b-1f43-4cb7-9aee-e99011da2910)
+       - [ ] $u(t) = U_m \sin(\omega t + \varphi_u)$
+          - $u(t)$：任意时刻 $t$ 的电压瞬时值
+
+          - $U_m$：最大值（振幅）
+
+          - $\omega$：角频率（单位 rad/s）
+
+          - $\varphi_u$：初相位（$t=0$ 时的电角度）
      - [ ] 摆长公式推导与[延伸](https://chat.deepseek.com/a/chat/s/ed35b3e6-7563-4065-980b-11704991ad40)
          - [ ] Pendulum period derivation via angular [frequency](https://chat.deepseek.com/a/chat/s/c98e94ae-5b51-4e43-a028-a9f5d5e3795a)
          - [ ] $T = 2\pi \sqrt{\frac{L}{g}}$
