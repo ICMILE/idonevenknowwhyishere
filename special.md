@@ -426,6 +426,7 @@
         -  [ ] 海伦公式[解析](https://chat.deepseek.com/a/chat/s/ed4349c0-a351-4365-8850-31226e62056b)
         -  [ ] 外接圆半径与海伦公式[推导](https://chat.deepseek.com/a/chat/s/5009b131-8222-4815-b073-93225c70eafe)
      -  [ ] 罗尔定理证明拉格朗日中值[Analysis](https://chat.deepseek.com/a/chat/s/a5f48382-8917-403c-b445-0ea92081a0a3)
+        -  [ ] 拉格朗日恒等式与乘数法导出[不等式](https://chat.deepseek.com/a/chat/s/7398d5c0-0a25-473b-b688-53907ceab977)
      -  [ ] 数学期望[计算](https://chat.deepseek.com/a/chat/s/2bf05da6-1b9f-4fee-ad87-b4b17bb99f9a)
      -  [ ] 切线参数[求解](https://chat.deepseek.com/a/chat/s/57f2a6d0-c51c-42a8-b0c4-10f85d2c2622)
      -  [ ] *miscellance
