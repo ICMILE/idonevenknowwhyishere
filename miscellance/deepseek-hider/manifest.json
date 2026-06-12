@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "DeepSeek Element Hider",
+  "version": "1.0",
+  "description": "隐藏DeepSeek Chat中的特定元素",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://chat.deepseek.com/*",
+        "https://chat.deepseek.com/*/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "commands": {
+    "toggle-elements": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+H",
+        "mac": "Command+Shift+H"
+      },
+      "description": "切换显示/隐藏所有元素"
+    }
+  },
+  "permissions": ["activeTab", "storage"]
+}
