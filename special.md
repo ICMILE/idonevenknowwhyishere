@@ -399,6 +399,7 @@
              -  [ ] 3√3最小值[求解](https://chat.deepseek.com/a/chat/s/40364bc1-08fc-4a00-aab5-2fd12613b4d8)
           -  [ ] 海伦公式及其应用[示例](https://chat.deepseek.com/a/chat/s/7bb404df-48a6-4bf4-b38a-3426724d22a7)
           -  [ ] 函数压轴题解题思路[解析](https://chat.deepseek.com/a/chat/s/6d37eee8-e26f-4be2-990d-8cca22508b86)
+          -  [ ] 26'数学题分析[解答](https://chat.deepseek.com/a/chat/s/1dd879e8-9f0e-4a2b-865f-8ae34070be2d)
    - #### $E$
      - 对数与导数综[合题](https://chat.deepseek.com/a/chat/s/6d6ed029-a50b-40a5-b850-c1dc3b0fbc88)
      -  [ ] 焦点弦长调和定理[证明](https://chat.deepseek.com/a/chat/s/a4a45cc5-27fe-4054-b66c-da5f850aea10)
